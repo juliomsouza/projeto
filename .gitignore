@@ -122,3 +122,4 @@ mediafiles/
 
 # local posgres files
 .pgdata
+*.sqlite3
